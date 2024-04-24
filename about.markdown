@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra convallis posuere morbi leo urna molestie. Id aliquet risus feugiat in ante metus dictum at tempor. Est velit egestas dui id ornare arcu odio ut. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum. Et malesuada fames ac turpis egestas. Non enim praesent elementum facilisis. Mollis aliquam ut porttitor leo a diam sollicitudin tempor. Quis vel eros donec ac odio tempor. Dictum non consectetur a erat nam. Eleifend donec pretium vulputate sapien. Cursus turpis massa tincidunt dui ut ornare lectus. Lectus urna duis convallis convallis tellus id. Amet justo donec enim diam vulputate ut pharetra. Tristique risus nec feugiat in fermentum. Amet aliquam id diam maecenas ultricies. Ipsum dolor sit amet consectetur adipiscing. Risus sed vulputate odio ut enim. In nibh mauris cursus mattis molestie a. Varius duis at consectetur lorem donec massa.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Amet nulla facilisi morbi tempus iaculis urna. Eu turpis egestas pretium aenean. Eget aliquet nibh praesent tristique magna sit amet purus gravida. Blandit volutpat maecenas volutpat blandit aliquam etiam. Fermentum et sollicitudin ac orci. Varius morbi enim nunc faucibus a pellentesque. Leo in vitae turpis massa sed elementum tempus egestas. Lacinia quis vel eros donec ac odio tempor orci. Ut porttitor leo a diam sollicitudin tempor id. Varius quam quisque id diam vel quam elementum. Tristique et egestas quis ipsum suspendisse ultrices. Et netus et malesuada fames ac turpis egestas maecenas pharetra. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Pellentesque habitant morbi tristique senectus et. Orci sagittis eu volutpat odio facilisis mauris sit amet massa.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Sed enim ut sem viverra aliquet. Odio euismod lacinia at quis risus sed. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Tempus urna et pharetra pharetra massa massa ultricies mi. In ornare quam viverra orci sagittis eu. Senectus et netus et malesuada fames ac turpis egestas sed. Enim sed faucibus turpis in. Vel elit scelerisque mauris pellentesque pulvinar pellentesque. Tincidunt id aliquet risus feugiat in ante.

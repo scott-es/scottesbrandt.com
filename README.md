@@ -1,1 +1,0 @@
-# scottesbrandt.com
