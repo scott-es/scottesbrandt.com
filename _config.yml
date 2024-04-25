@@ -21,7 +21,7 @@
 title: Scott Esbrandt
 email: scott@scottesbrandt.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Technology changes all the time; human nature, hardly ever.
+  Solving problems, creating new ones.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.scottesbrandt.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
