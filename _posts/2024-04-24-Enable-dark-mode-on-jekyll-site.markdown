@@ -21,17 +21,11 @@ Resources: [darkreader](https://www.npmjs.com/package/darkreader)
 
 First we must set up `darkreader`, to include the necessary scripts client side, rather than including them via npm package, since we are running this on a static site.
 
-#### Download the script
-
-To avoid CORS issues, I've just [downloaded](https://unpkg.com/browse/darkreader@4.9.83/darkreader.js) and included the `darkreader` JS as a static asset in my jekyll site, and then include the following script in the `head` section of the HTML page.  In my case, I renamed `darkreader.js` to `darkreader-4.9.83.js`.
-
-1. If not already present, create a folder called `assets` in the root of your jekyll project. Create another folder called `js` underneath assets, and place the darkreader script there.  
-
 #### Load the script from HTML head section
 
 1. Modify `_includes/head.html` and add the following <br/><br/>
 ```html
-<script src="assets/js/darkreader-4.9.83.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.84/darkreader.min.js"></script>
 ```
 2. If your local jekyll server is running, please restart it
 
