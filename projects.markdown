@@ -5,5 +5,5 @@ permalink: /projects/
 ---
 
 <ul>
-    <li>Sample Project</li>
+    <li>Coming soon</li>
 </ul>
