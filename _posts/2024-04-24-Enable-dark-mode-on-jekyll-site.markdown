@@ -181,3 +181,19 @@ function setIconsDarkModeOff() {
 detected browser preference.
 
 <br/>
+
+
+### <span style="color: #666666;">Finished product</span>
+
+<a href="www.scottesbrandt.com">This site</a> implements these instructions, with the color scheme toggle atop of the page
+
+<img src="/assets/img/se-darkmode-toggle.png">
+
+Find the relevant modified source code files here:
+
+<ul>
+  <li><a href="https://github.com/scott-es/scottesbrandt.com/blob/main/_includes/head.html" target="_blank">_includes/head.html</a></li>
+  <li><a href="https://github.com/scott-es/scottesbrandt.com/blob/main/_includes/header.html" target="_blank">_includes/header.html</a></li>
+  <li><a href="https://github.com/scott-es/scottesbrandt.com/blob/main/_includes/footer.html" target="_blank">_includes/footer.html</a></li>
+  <li><a href="https://github.com/scott-es/scottesbrandt.com/blob/main/assets/js/color-scheme.js" target="_blank">assets/js/color-scheme.js</a></li>
+<ul>
