@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Enable dark mode on your jekyll site without writing CSS"
+title:  "Enable dark mode on static jekyll site without writing CSS"
 date:   2024-04-24 23:31:43 -0400
 categories: jekyll
 ---
