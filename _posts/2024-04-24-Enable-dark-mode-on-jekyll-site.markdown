@@ -185,7 +185,7 @@ detected browser preference.
 
 ### <span style="color: #666666;">Finished product</span>
 
-<a href="www.scottesbrandt.com">This site</a> implements these instructions, with the color scheme toggle atop of the page
+<a href="https://www.scottesbrandt.com">This site</a> implements these instructions, with the color scheme toggle atop of the page
 
 <img src="/assets/img/se-darkmode-toggle.png">
 
