@@ -26,7 +26,7 @@ For my purposes, I will be customizing 3 files: <br/>
 
 ### <span style="color: #666666;">Set up client-side resources</span>
 
-First we must include the necessary scripts and CSS client side.
+First I must include the necessary scripts and CSS client side.
 
 Resource: [darkreader](https://www.npmjs.com/package/darkreader)
 to dynamically change the site to a dark-mode color scheme
